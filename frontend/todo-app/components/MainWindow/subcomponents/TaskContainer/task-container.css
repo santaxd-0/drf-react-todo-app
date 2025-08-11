@@ -1,0 +1,10 @@
+.task-container-style{
+    width: 75%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    justify-content: baseline;
+    gap: 10px;
+}

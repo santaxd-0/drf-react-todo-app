@@ -1,0 +1,12 @@
+body{
+    color: #69665c;
+    background-color: #FFFFFF;
+    padding: 30px;
+    margin: 0;
+}
+
+#root {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
